@@ -25,4 +25,5 @@ This project analyzes sales data using Tableau. It includes KPI metrics, region-
 
 (Add your Tableau Public link here)
 xs
+https://public.tableau.com/views/Sales_data_analytics/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 <img width="1470" height="956" alt="Screenshot 2026-04-01 at 10 59 34 PM" src="https://github.com/user-attachments/assets/3f16f550-68e6-498d-902e-2a260450dbdb" />
